@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PERRY PATEL
 - 👀 I’m interested in HTML,CSS
 - 🌱 I’m currently learning  Full Stack
-- 📫 How to reach me :perrypatel1414@gmail.com
+- 📫 How to reach me : perrypatel1414@gmail.com
 
 
 <!---
